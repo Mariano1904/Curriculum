@@ -1,0 +1,13 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    background-color: grey;
+    
+}
+
+p{
+    font-weight: 300;
+}
+
+.row{
+    text-align: center;
+}
